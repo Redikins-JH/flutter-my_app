@@ -1,3 +1,11 @@
+## Flutter meetup 참가 후기
+ - flutter의 목적성 : 크로스 플랫폼 개발, 디스플레이 반응형 디자인과 애니메이션을 잘 만들 수 있다.
+
+1. 플러터 세팅
+2. 플러터 예제 앱 생성
+3. 간단히 반응형 레이아웃 예제 핸즈온
+
+
 ## ko, mac, get start :  Flutter Setting
 
 https://flutter-ko.dev/docs/get-started/install/macos
