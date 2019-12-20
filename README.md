@@ -5,7 +5,7 @@ https://flutter-ko.dev/docs/get-started/install/macos
 
 1. Flutter SDK 다운로드 설치
 
-2. ~~~~~flutter/bin 경로를 bash_profile에 환경변수로 추가
+2. 본인의 flutter설치경로/flutter/bin 경로를 bash_profile에 환경변수로 추가
 
 3. flutter doctor 로 필요 사항들 확인
     [✓] Flutter (Channel stable, v1.12.13+hotfix.5, on Mac OS X 10.15.1 19B88,
